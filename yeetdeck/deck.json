@@ -1,0 +1,32 @@
+{
+  "name": "Example Deck",
+  "cards": [
+    {
+      "id": "1",
+      "front": "What is the SM-2 algorithm used for?",
+      "back": "Spaced repetition — scheduling card reviews based on recall quality.",
+      "interval": 0,
+      "ease_factor": 2.5,
+      "reps": 0,
+      "next_due": "2000-01-01T00:00:00Z"
+    },
+    {
+      "id": "2",
+      "front": "What Go package handles JSON?",
+      "back": "encoding/json",
+      "interval": 0,
+      "ease_factor": 2.5,
+      "reps": 0,
+      "next_due": "2000-01-01T00:00:00Z"
+    },
+    {
+      "id": "3",
+      "front": "What does goroutine do?",
+      "back": "Runs a function concurrently using Go's lightweight thread model.",
+      "interval": 0,
+      "ease_factor": 2.5,
+      "reps": 0,
+      "next_due": "2000-01-01T00:00:00Z"
+    }
+  ]
+}
