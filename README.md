@@ -2,7 +2,7 @@
 inspired by anki and Mnemosyne.
 vibe coded with claude.
 
-[] this is just a idea, things to be added:
+this is just a idea, things to be added:
 
 [] prittier gui in the terminal
 
