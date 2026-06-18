@@ -2,12 +2,10 @@
 inspired by anki and Mnemosyne.
 vibe coded with claude.
 
-this is just a idea, things to be added:
+- Prettier GUI in the terminal for a better user experience
 
-[] prittier gui in the terminal
+- Ability to import Anki decks
 
-[] the ability to import anki decks
+- Ability to import Mnemosyne decks
 
-[] the abillity to import Mnemosyne decks
-
-[] create our own format for the decks.... 
+- Develop a custom deck format unique to your app
